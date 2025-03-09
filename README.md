@@ -92,4 +92,3 @@ This tool facilitates submitting orders on the Hyperliquid DEX using a multi-sig
 ## Disclaimer
 
 Use this tool at your own risk. The developers are not responsible for any financial losses incurred while using this script. Always exercise caution and thoroughly test your multi-sig setup before trading with real funds.
-```
