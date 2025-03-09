@@ -1,0 +1,13 @@
+{
+  "multi_sig_user": "YOUR_MULTI_SIG_USER_ADDRESS",
+  "network": "testnet",
+  "multi_sig_signers": {
+    "threshold": 1,
+    "outer_signer": "YOUR_OUTER_SIGNER_ADDRESS",
+    "addresses": [
+      "YOUR_SIGNER_ADDRESS_1",
+      "YOUR_SIGNER_ADDRESS_2",
+      "YOUR_SIGNER_ADDRESS_3"
+    ]
+  }
+}
